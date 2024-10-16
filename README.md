@@ -69,6 +69,5 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitgupta763&show_icons=true&locale=en&layout=compact" alt="rachitgupta763" /></p>
-
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=&](https://streak-stats.demolab.com/?user=rachitgupta763)" alt="rachitgupta763" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rachitgupta763" alt="GitHub Streak" /></a>
 
