@@ -69,5 +69,10 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitgupta763&show_icons=true&locale=en&layout=compact" alt="rachitgupta763" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rachitgupta763" alt="GitHub Streak" /></a>
+<p><a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=rachitgupta763" alt="GitHub Streak" /></a>
+</p>
 
+<p><img align="center" src="https://leetcard.jacoblin.cool/rachitgupta763?theme=light&font=Faustina&ext=heatmap" alt="LeetCode Badges"/>
+</p>
+<p><img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=rachitgupta763" alt="LeetCode Badges"/>
+</p>
