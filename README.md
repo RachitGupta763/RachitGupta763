@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Next.js, Python, AI/ML**
 
-- 👯 I’m looking to collaborate on [CPU Scheduler](https://github.com/RachitGupta763/CpuScheduler)
+- 👯 I’m looking to collaborate on [Namaste_NodeJs](https://github.com/RachitGupta763/Namaste_NodeJs)
 
-- 🤝 I’m looking for help with [CPU Scheduler](https://github.com/RachitGupta763/CpuScheduler)
+- 🤝 I’m looking for help with [Namaste_NodeJs](https://github.com/RachitGupta763/Namaste_NodeJs)
 
 - 💬 Ask me about **React.js, Node.js, Express.js, C/C++, JavaScript and many more.**
 
